@@ -5,9 +5,9 @@
 - [ICU Client](https://github.com/https-github-com-icu/icu-frontend) <br>
 - [ICU Server](https://github.com/https-github-com-icu/icu-backend)
 <br>
-<br>
 
-## 이상행동 감지 / 확인 시스템
+**이상행동 감지 / 확인 시스템**
+<br>
 **React를 활용한 팀 프로젝트**
 졸업 요건 충족을 위해 캡스톤 디자인 과목을 수강하며, 팀 프로젝트로 본 과제를 기획하고 진행하게 되었습니다.
  
