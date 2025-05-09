@@ -6,7 +6,7 @@
 - [ICU Server](https://github.com/https-github-com-icu/icu-backend)
 <br>
 
-- 이상행동 감지 / 확인 시스템
+### 이상행동 감지 / 확인 시스템
 <br>
 **React를 활용한 팀 프로젝트**
   <br>
