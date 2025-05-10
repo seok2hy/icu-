@@ -1,0 +1,22 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    './src/**/*.{js,jsx,ts,tsx}',
+    'index.html',
+    './src/styles/main.css'
+  ],
+  theme: {
+    extend: {
+      colors: {
+        'primary-color': ''
+      }
+    },
+      fontFamily: {
+        Pretendard: ["Pretendard"]
+      },
+  },
+  plugins: [
+    require('@tailwindcss/aspect-ratio')
+  ],
+}
+

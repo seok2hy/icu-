@@ -1,0 +1,26 @@
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ccc;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  border: 1px solid #ccc
+}
+
+th {
+  background-color: #747a94;
+}
+
+
+th:not(:last-child),
+td:not(:last-child) {
+  margin-right: 10px;
+}
