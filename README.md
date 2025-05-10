@@ -22,15 +22,14 @@
 
 
 ## ⚙️ 개발 환경 및 운영 환경
-**Frontend**
-- Framework: React
-- build Tool: Vite
-- language : Javascript
+
+- Framework: React, Node.js, Docker
+- Database: Mongo
+- Build Tool: Vite
+- Language : Javascript
 - CSS Framework : Tailwind CSS
 - IDE : Visual Studio Code (VSCode)
 
-**Backend**
-- IDE : Visual Studio
 <br><br>
   
 ## ✨ 프로젝트 기능
